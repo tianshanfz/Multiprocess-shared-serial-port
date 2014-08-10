@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1362569408 source:/home/xltyt/code_projects/pccom/Event.cpp
+	"Event.h"
+
+1365598379 /home/xltyt/code_projects/pccom/Event.h
+	<pthread.h>
+
+1365595681 source:/home/xltyt/code_projects/pccom/main.cpp
+
+1366113672 source:/home/xltyt/code_projects/pccom/PCCommEngine.cpp
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/shm.h>
+	<sys/types.h>
+	<fcntl.h>
+	<stdio.h>
+	<string.h>
+	"PCCommEngine.h"
+
+1366113608 /home/xltyt/code_projects/pccom/PCCommEngine.h
+	<pthread.h>
+	<termios.h>
+	<semaphore.h>
+
